@@ -16,8 +16,8 @@ revocation checks.
  - [Development](#development)
  - [CI Tasks](#ci-tasks)
 
-[![GitHub Actions CI](https://github.com/wbond/certvalidator/workflows/CI/badge.svg)](https://github.com/wbond/certvalidator/actions?workflow=CI)
-[![CircleCI](https://circleci.com/gh/wbond/certvalidator.svg?style=shield)](https://circleci.com/gh/wbond/certvalidator)
+[![GitHub Actions CI](https://github.com/edwardt/certvalidator/workflows/CI/badge.svg)](https://github.com/edwardt/certvalidator/actions?workflow=CI)
+[![CircleCI](https://circleci.com/gh/edwardt/certvalidator.svg?style=shield)](https://circleci.com/gh/edwardt/certvalidator)
 [![PyPI](https://img.shields.io/pypi/v/certvalidator.svg)](https://pypi.python.org/pypi/certvalidator)
 
 ## Features
